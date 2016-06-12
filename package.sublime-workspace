@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pos",
+				"position"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"Cha",
+				"ChatCtrl"
+			],
+			[
+				"chat",
+				"chatId"
+			],
+			[
+				"te",
+				"templates"
+			],
+			[
+				"ca",
+				"CalendarFilter"
+			],
+			[
+				"ur",
+				"urlRouterProvider"
+			],
+			[
+				"stat",
+				"stateProvider"
+			],
+			[
+				"temp",
+				"templateUrl"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"ti",
+				"time"
+			],
+			[
+				"u",
+				"urlRouterProvider"
+			],
+			[
+				"co",
+				"controllers"
+			],
+			[
+				"la",
+				"lastMessage"
+			],
+			[
+				"s",
+				"subtract"
+			],
+			[
+				"tim",
+				"timestamp"
+			],
+			[
+				"st",
+				"stateProvider"
+			],
+			[
+				"A",
+				"Angular"
+			],
+			[
+				"a",
+				"angular-ui-router"
+			],
+			[
+				"gu",
+				"gutil"
+			],
+			[
+				"we",
+				"webpackConfig"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"w",
+				"webpack"
+			],
+			[
+				"plu",
+				"plugin"
+			],
+			[
+				"up",
+				"upperFirst"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 325.0,
+		"last_filter": "set Syntax: J",
+		"selected_items":
+		[
+			[
+				"set Syntax: J",
+				"Set Syntax: JSON"
+			],
+			[
+				"js",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"inst",
+				"Build: New Build System"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 398.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/PROJECTS/DOC_LOCK/docLock/www/templates/keyboard.html",
+		"/E/PROJECTS/DOC_LOCK/docLock/scss/ionic.app.scss",
+		"/E/PROJECTS/DOC_LOCK/docLock/scss/login.scss",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/index.html",
+		"/E/PROJECTS/DOC_LOCK/docLock/gulpfile.js",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/js/app.js",
+		"/E/PROJECTS/DOC_LOCK/docLock/scss/keyboard.scss",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/js/directives/keyboard.directive.js",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/js/directives.js",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/templates/main.html",
+		"/E/PROJECTS/DOC_LOCK/docLock/scss/main.scss",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/templates/login.html",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/js/controllers/login.controller.js",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/templates/pass.html",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/js/controllers/main.controller.js",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/js/controllers/pass.controller.js",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/lib/ionic/scss/ionic.scss",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/css/style.css",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/lib/ionic/css/ionic.css",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/js/controllers.js",
+		"/E/PROJECTS/DOC_LOCK/docLock/www/js/controllers/sidemenu.controller.js",
+		"/E/PROJECTS/DOC_LOCK/docLock/config.xml",
+		"/E/PROJECTS/DOC_LOCK/docLock/platforms/android/src/com/ionicframework/doclock830021/MainActivity.java",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/plugins/ionic-plugin-keyboard/package.json",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/plugins/ionic-plugin-keyboard/src/android/IonicKeyboard.java",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/plugins/ios.json",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/plugins/android.json",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/plugins/ionic-plugin-keyboard/README.md",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/plugins/browser.json",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/client/styles/chat.scss",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/client/scripts/routes.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/client/templates/chat.html",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/client/scripts/lib/app.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/client/scripts/controllers/chat.controller.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/client/templates/chats.html",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/server/bootstrap.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/client/scripts/controllers/chats.controller.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/lib/collections.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/client/styles/chats.scss",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/client/index.html",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/client/scripts/filters/calendar.filter.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/client/templates/tabs.html",
+		"/E/PROJECTS/whatsapp_meteor_ionic/watsapp_meteor/.meteor/packages",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/api/server/collections.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/src/controllers/chats.controller.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/gulpfile.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/src/index.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/www/index.html",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/www/css/ionic.app.css",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/api/server/bootstrap.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/src/app.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/ionic.project",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/webpack.config.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/api/node_modules.lnk",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/api/.gitignore",
+		"/C/Users/EL HALOUI/AppData/Roaming/Sublime Text 3/Packages/Sublime-JSHint/.jshintrc",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/www/css/ionic.app.min.css",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/www/js/app.bundle.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/src/routes.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/scss/chats.scss",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/scss/ionic.app.scss",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/package.json",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/www/templates/chats.html",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/src/filters/calendar.filter.js",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/www/templates/tabs.html",
+		"/E/PROJECTS/whatsapp_meteor_ionic/whatsapp/.gitignore",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/index.html",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/templates/login.html",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/js/app.js",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/js/controllers.js",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/lib/ionic/js/ionic-angular.js",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/css/ionic.app.css",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/lib/ionic/js/ionic.js",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/templates/browse.html",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/templates/playlist.html",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/templates/playlists.html",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/templates/search.html",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/www/templates/menu.html",
+		"/E/PROJECTS/DOCS_LOCKER/docLocker_sidemenu/gulpfile.js",
+		"/E/PROJECTS/DOCS_LOCKER/appli.png",
+		"/E/PROJECTS/DAF-HOREN/www/index.html"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"E:\\PROJECTS\\whatsapp_meteor_ionic\\whatsapp\\src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"col col-10",
+			"style=\"font-size:2em; color:#7F98A6\"",
+			"col-20",
+			"appPass",
+			"modalPass",
+			"channel",
+			"utils",
+			"argscheck",
+			"args",
+			"Momement"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"touch col col-10",
+			"",
+			"touch col-20"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "package.sublime-project",
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 329.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
